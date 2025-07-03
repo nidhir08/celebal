@@ -29,7 +29,7 @@ A Spotify clone built with React JS and Tailwind CSS, showcasing a dynamic and r
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/celebal/spotify-clone.git
+    git clone https://github.com/celebal/week5/spotify-clone.git
     ```
 2. Navigate to the project directory:
     ```sh
